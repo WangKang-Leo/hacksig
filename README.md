@@ -47,7 +47,7 @@ Or the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Acare/hacksig")
+devtools::install_github("WangKang-Leo/hacksig")
 ```
 
 ## Usage
